@@ -1,6 +1,10 @@
-# 🛫 Data Science Project: Aviation Risk Assessment
+# 🛫 Data Science Project: Aviation Risk Assessments
 
-This Jupyter Notebook documents the **process**, **analysis**, and **key findings** for the *Aviation Risk Assessment* project aimed at identifying the **lowest-risk aircraft** for a company entering the **commercial and private aviation** sectors.
+## ▶️ View the Interactive Analysis (HTML)
+
+**[Open aviation_analysis.html](notebookproject/aviation_analysis.html)**
+
+This Jupyter Notebook documents the **process**, **analysis**, and **key findings** for the *Aviation Risk Assessment* project aimed at identifying the **lowest-risk aircraft** for a company entering the **commercial and private aviation** sectors..
 
 ## 📦 Project Deliverables
 
