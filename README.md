@@ -2,7 +2,18 @@
 
 ## ▶️ View the Interactive Analysis (HTML)
 
-**[Open aviation_analysis.html](notebookproject/aviation_analysis.html)**
+**[Open aviation_analysis.html](https://tonyoloo.github.io/aviator/notebookproject/aviation_analysis.html)**
+
+## 🔗 Direct Links to Interactive Figures (Hosted)
+
+- **[Events by Year and Severity](https://tonyoloo.github.io/aviator/notebookproject/figure_1.html)**
+- **[Fatal Accident Rate Over Time](https://tonyoloo.github.io/aviator/notebookproject/figure_2.html)**
+- **[Accident Severity Distribution](https://tonyoloo.github.io/aviator/notebookproject/figure_3.html)**
+- **[Top 15 Manufacturers](https://tonyoloo.github.io/aviator/notebookproject/figure_4.html)**
+- **[Accidents by Flight Category](https://tonyoloo.github.io/aviator/notebookproject/figure_5.html)**
+- **[Weather Conditions vs Accident Severity](https://tonyoloo.github.io/aviator/notebookproject/figure_6.html)**
+- **[Hierarchical View (Sunburst)](https://tonyoloo.github.io/aviator/notebookproject/figure_7.html)**
+- **[Geographic Distribution](https://tonyoloo.github.io/aviator/notebookproject/figure_8.html)**
 
 This Jupyter Notebook documents the **process**, **analysis**, and **key findings** for the *Aviation Risk Assessment* project aimed at identifying the **lowest-risk aircraft** for a company entering the **commercial and private aviation** sectors..
 
